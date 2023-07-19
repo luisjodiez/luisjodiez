@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisjodiez
 - 👀 I’m interested in Cloud Infrastructure and Automation
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Kotlin
 
 <!---
 luisjodiez/luisjodiez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
