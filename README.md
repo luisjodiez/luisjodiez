@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luisjodiez
+- 👋 Hi, I’m a spanish 90s guy having a hard time to keep a distro for longer than a few months.
 - 👀 You might see me wandering into backend, scripting, infrastructure and many other things.
 
 <!---
