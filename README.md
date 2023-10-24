@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luisjodiez
-- 👀 I’m interested in Cloud Infrastructure and Automation
+- 👀 You might see me wandering into backend, scripting, infrastructure and many other things.
 
 <!---
 luisjodiez/luisjodiez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
