@@ -8,7 +8,7 @@
 - Jumped into the infra world in 2018. AWS, Ansible, Terraform, Linux, Python... A whole new world.
 
 # Personal projects
-- A crude FoundryVTT accessibility module using JS.
+- A FoundryVTT accessibility module using JS.
 - Some MQTT PoC with AWs and terraform.
 - Some basic PoC for Azure terraform instance creation.
 - This is a work in progress. I have the skills but no direction to direct them.
