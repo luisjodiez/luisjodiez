@@ -11,7 +11,10 @@
 - A FoundryVTT accessibility module using JS.
 - Some MQTT PoC with AWs and terraform.
 - Some basic PoC for Azure terraform instance creation.
-- This is a work in progress. I have the skills but no direction to direct them.
+
+# Interests
+- Development with JS, Python, Go... Anything really.
+- Trying to learn actual collaboration on development and projects.
 
 <!---
 luisjodiez/luisjodiez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
