@@ -11,6 +11,7 @@
 - A FoundryVTT accessibility module using JS.
 - Some MQTT PoC with AWs and terraform.
 - Some basic PoC for Azure terraform instance creation.
+- A basic Go application for domestic network tests
 
 # Interests
 - Development with JS, Python, Go... Anything really.
